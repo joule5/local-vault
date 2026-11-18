@@ -1,0 +1,11 @@
+{
+  "name": "Local Vault",
+  "short_name": "Vault",
+  "description": "Fully offline encrypted notebook with text and drawing. Nothing leaves your device.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "any",
+  "icons": []
+}
